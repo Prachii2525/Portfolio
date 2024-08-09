@@ -55,6 +55,8 @@ body {
 
 .profile-card .profile-pic img {
     border-radius: 10px;
+    height: 200px; 
+    width: 100x;
 }
 
 .profile-card .profile-details {
