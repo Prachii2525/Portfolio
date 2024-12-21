@@ -21,6 +21,10 @@
 
 body {
     background: linear-gradient(45deg, var(--purple), var(--purple-light));
+    body {
+        font-family: 'Roboto', sans-serif;
+      }
+      
 }
 
 .container {
